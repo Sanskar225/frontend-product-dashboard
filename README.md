@@ -1,9 +1,9 @@
 # Product Management Dashboard
-
+![alt text](image.png)
 A modern, production-ready product management dashboard built with React, TypeScript, and Three.js. Features include real-time search with debouncing, advanced filtering and sorting, dual-view modes, and a stunning 3D particle background.
-
+![alt text](image-1.png)
 ## Features
-
+![alt text](image-2.png)
 ### Core Functionality
 - **Product Management**: Full CRUD operations (Create, Read, Update, Delete)
 - **Persistent Storage**: Automatic localStorage integration with graceful fallback
